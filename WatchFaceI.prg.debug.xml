@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\oracl\Documents\Projects\garmin\Face I\WatchFaceI\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="1" lineNum="8" parent="globals/WatchFaceIView" pc="268435457" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="4" lineNum="18" parent="globals/WatchFaceIView" pc="268435476" symbol="onLayout"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="4" lineNum="19" parent="globals/WatchFaceIView" pc="268435478" symbol="onLayout"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="6" lineNum="12" parent="globals/WatchFaceIView" pc="268435520" symbol="initialize"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="6" lineNum="13" parent="globals/WatchFaceIView" pc="268435522" symbol="initialize"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="33" parent="globals/WatchFaceIView" pc="268435541" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="40" parent="globals/WatchFaceIView" pc="268435545" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="41" parent="globals/WatchFaceIView" pc="268435567" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="44" parent="globals/WatchFaceIView" pc="268435579" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="45" parent="globals/WatchFaceIView" pc="268435596" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="46" parent="globals/WatchFaceIView" pc="268435670" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="47" parent="globals/WatchFaceIView" pc="268435698" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="50" parent="globals/WatchFaceIView" pc="268435712" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="51" parent="globals/WatchFaceIView" pc="268435729" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="52" parent="globals/WatchFaceIView" pc="268435739" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="53" parent="globals/WatchFaceIView" pc="268435749" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="54" parent="globals/WatchFaceIView" pc="268435777" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="55" parent="globals/WatchFaceIView" pc="268435853" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="58" parent="globals/WatchFaceIView" pc="268435867" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="60" parent="globals/WatchFaceIView" pc="268435910" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="61" parent="globals/WatchFaceIView" pc="268435938" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="64" parent="globals/WatchFaceIView" pc="268436062" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="65" parent="globals/WatchFaceIView" pc="268436105" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="66" parent="globals/WatchFaceIView" pc="268436133" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="69" parent="globals/WatchFaceIView" pc="268436197" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="70" parent="globals/WatchFaceIView" pc="268436214" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="71" parent="globals/WatchFaceIView" pc="268436242" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="74" parent="globals/WatchFaceIView" pc="268436289" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="75" parent="globals/WatchFaceIView" pc="268436308" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="76" parent="globals/WatchFaceIView" pc="268436336" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIView.mc" id="8" lineNum="79" parent="globals/WatchFaceIView" pc="268436403" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIApp.mc" id="9" lineNum="26" parent="globals" pc="268436428" symbol="getApp"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIApp.mc" id="9" lineNum="27" parent="globals" pc="268436438" symbol="getApp"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="10" lineNum="7" parent="globals/Rez" pc="268436454" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIApp.mc" id="11" lineNum="5" parent="globals/WatchFaceIApp" pc="268436478" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIApp.mc" id="13" lineNum="20" parent="globals/WatchFaceIApp" pc="268436497" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIApp.mc" id="13" lineNum="21" parent="globals/WatchFaceIApp" pc="268436499" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIApp.mc" id="14" lineNum="7" parent="globals/WatchFaceIApp" pc="268436540" symbol="initialize"/>
+        <entry filename="C:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\source\\WatchFaceIApp.mc" id="14" lineNum="8" parent="globals/WatchFaceIApp" pc="268436542" symbol="initialize"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="16" lineNum="11" parent="globals/Rez/Drawables/backdrop" pc="268436561" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="17" lineNum="15" parent="globals/Rez/Drawables/backdrop" pc="268436580" symbol="initialize"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="17" lineNum="16" parent="globals/Rez/Drawables/backdrop" pc="268436582" symbol="initialize"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="17" lineNum="17" parent="globals/Rez/Drawables/backdrop" pc="268436606" symbol="initialize"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="20" parent="globals/Rez/Drawables/backdrop" pc="268436654" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="21" parent="globals/Rez/Drawables/backdrop" pc="268436656" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="22" parent="globals/Rez/Drawables/backdrop" pc="268436667" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="23" parent="globals/Rez/Drawables/backdrop" pc="268436679" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="27" parent="globals/Rez/Drawables/backdrop" pc="268436680" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="28" parent="globals/Rez/Drawables/backdrop" pc="268436702" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="29" parent="globals/Rez/Drawables/backdrop" pc="268436734" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="31" parent="globals/Rez/Drawables/backdrop" pc="268436756" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="32" parent="globals/Rez/Drawables/backdrop" pc="268436786" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="33" parent="globals/Rez/Drawables/backdrop" pc="268436808" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="34" parent="globals/Rez/Drawables/backdrop" pc="268436840" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="18" lineNum="35" parent="globals/Rez/Drawables/backdrop" pc="268436862" symbol="draw"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="19" lineNum="47" parent="globals/Rez/Layouts" pc="268436890" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="19" lineNum="48" parent="globals/Rez/Layouts" pc="268436902" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="19" lineNum="50" parent="globals/Rez/Layouts" pc="268437014" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="19" lineNum="52" parent="globals/Rez/Layouts" pc="268437139" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="19" lineNum="54" parent="globals/Rez/Layouts" pc="268437264" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="19" lineNum="56" parent="globals/Rez/Layouts" pc="268437389" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="19" lineNum="58" parent="globals/Rez/Layouts" pc="268437514" symbol="WatchFace"/>
+        <entry filename="c:\\Users\\oracl\\Documents\\Projects\\garmin\\Face I\\WatchFaceI\\gen\\006-B3703-00\\source\\Rez.mcgen" id="19" lineNum="60" parent="globals/Rez/Layouts" pc="268437639" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="9" object="true" symbol="WatchFaceIApp"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="7" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="15" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="16" symbol="image_LauncherIcon"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8391300" method="true" symbol="isVisible"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="14" object="true" symbol="backdrop"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="10" object="true" symbol="WatchFaceIView"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435519" name="dc" stackId="1" startPc="268435476"/>
+        <entry arg="true" endPc="268436427" name="dc" stackId="1" startPc="268435541"/>
+        <entry endPc="268436426" name="clockTime" stackId="2" startPc="268435545"/>
+        <entry endPc="268436426" name="timeString" stackId="3" startPc="268435545"/>
+        <entry endPc="268436426" name="view" stackId="4" startPc="268435545"/>
+        <entry endPc="268436426" name="sysStats" stackId="5" startPc="268435545"/>
+        <entry endPc="268436426" name="batLife" stackId="6" startPc="268435545"/>
+        <entry endPc="268436426" name="batLifeInDays" stackId="7" startPc="268435545"/>
+        <entry endPc="268436426" name="batView" stackId="8" startPc="268435545"/>
+        <entry endPc="268436426" name="batString" stackId="9" startPc="268435545"/>
+        <entry endPc="268436426" name="date" stackId="10" startPc="268435545"/>
+        <entry endPc="268436426" name="dayOfWeekView" stackId="11" startPc="268435545"/>
+        <entry endPc="268436426" name="dateLong" stackId="12" startPc="268435545"/>
+        <entry endPc="268436426" name="dateView" stackId="13" startPc="268435545"/>
+        <entry endPc="268436426" name="hr" stackId="14" startPc="268435545"/>
+        <entry endPc="268436426" name="hrView" stackId="15" startPc="268435545"/>
+        <entry endPc="268436426" name="stepCnt" stackId="16" startPc="268435545"/>
+        <entry endPc="268436426" name="stepView" stackId="17" startPc="268435545"/>
+        <entry arg="true" endPc="268436889" name="dc" stackId="1" startPc="268436654"/>
+        <entry arg="true" endPc="268437705" name="dc" stackId="1" startPc="268436890"/>
+        <entry endPc="268437705" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268436902"/>
+        <entry endPc="268437705" name="rez_cmp_local_text_BatteryDisplay" stackId="3" startPc="268436902"/>
+        <entry endPc="268437705" name="rez_cmp_local_text_HeartRateDisplay" stackId="4" startPc="268436902"/>
+        <entry endPc="268437705" name="rez_cmp_local_text_StepCountDisplay" stackId="5" startPc="268436902"/>
+        <entry endPc="268437705" name="rez_cmp_local_text_DayOfTheWeek" stackId="6" startPc="268436902"/>
+        <entry endPc="268437705" name="rez_cmp_local_text_DateDisplay" stackId="7" startPc="268436902"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="backdrop" module="globals/Rez/Drawables" symbol="image_LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/WatchFaceIView" offset="158" parentId="globals" symbolId="WatchFaceIView" type="class"/>
+        <dataEntry label="globals/Rez" offset="253" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/WatchFaceIApp" offset="332" parentId="globals" symbolId="WatchFaceIApp" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="450" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="489" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="520" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="551" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="590" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/backdrop" offset="621" parentId="Drawables" symbolId="backdrop" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435475" name="&lt;init&gt;" parent="WatchFaceIView" startPc="268435457">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="WatchFaceIView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="WatchFaceIView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435519" name="onLayout" parent="WatchFaceIView" startPc="268435476">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="WatchFaceIView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435540" name="initialize" parent="WatchFaceIView" startPc="268435520">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="WatchFaceIView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436427" name="onUpdate" parent="WatchFaceIView" startPc="268435541">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436453" name="getApp" startPc="268436428">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436477" name="&lt;init&gt;" parent="Rez" startPc="268436454">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436496" name="&lt;init&gt;" parent="WatchFaceIApp" startPc="268436478">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="WatchFaceIApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436539" name="getInitialView" parent="WatchFaceIApp" startPc="268436497">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436560" name="initialize" parent="WatchFaceIApp" startPc="268436540">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="WatchFaceIApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436579" name="&lt;init&gt;" parent="backdrop" startPc="268436561">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436653" name="initialize" parent="backdrop" startPc="268436580">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436889" name="draw" parent="backdrop" startPc="268436654">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437705" name="WatchFace" parent="Layouts" startPc="268436890">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
