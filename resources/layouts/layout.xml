@@ -1,10 +1,10 @@
 <layout id="WatchFace">
-    <label id="TimeLabel" x="center" y="35%" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="TimeLabel" x="center" y="35%" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_GREEN" />
 
     <label id="BatteryDisplay" text="00" x="center" y="10%" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
-    <label id="HeartrateDisplay" text="95" x="center" y="top" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
-    <label id="StepCountDisplay" text="5000" x="90%" y="top" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+    <label id="HeartRateDisplay" text="95" x="center" y="top" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_GREEN" />
+    <label id="StepCountDisplay" text="5000" x="center" y="55%" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_RED" />
     <label id="DayOfTheWeek" text="Monday" x="center" y="75%" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
     <label id="DateDisplay" text="00/00/00" x="center" y="85%" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />      
-    <label id="MessageCountDisplay" text="+00" x="10%" y="bottom" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+    <!--<label id="MessageCountDisplay" text="+00" x="10%" y="bottom" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />-->
 </layout> 
